@@ -6,12 +6,19 @@ public class RegressaoLinear {
         {4, 5},
         {5, 6}
     };*/
-
+    /*
     private double[][] pontos = {
         {1,1},
         {2,3},
         {-1,2},
         {0,-1}
+    }; */
+
+    private double[][] pontos = {
+        {0,0},
+        {1,1},
+        {-1,2},
+        {0,2}
     };
 
     private double somaX;
